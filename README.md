@@ -1,4 +1,1 @@
-Sudoku
-======
-
-Application that solves sudoku puzzles using various algorithms
+SUDOKU prject 2 in AI...
